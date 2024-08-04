@@ -1,6 +1,9 @@
 # hdhr-relay
 Relay HDHomeRun connections, allowing access across networks (VLANs or VPNs).
 
+The relay blocks any urls not related to video playback, allowing view access to be granted without the ability to
+retune channels.
+
 ## Run
 
 ```bash
